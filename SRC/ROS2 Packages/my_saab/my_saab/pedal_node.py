@@ -52,7 +52,7 @@ def joy_callback(msg, publisher_1):
         ret_1.data = 0.0
     	
     publisher_1.publish(ret_1)
-    #publisher_2.publish(ret_2)
+
     
     
     
@@ -63,7 +63,7 @@ def main(args=None):
     node = rclpy.create_node('Joy_controller')
     subscription = node.create_subscription(Joy, '/joy', lambda msg: joy_callback(msg, publisher_1), 10)
     publisher_1 = node.create_publisher(Float32, 'micro_ros_pedal', 10)
-    #publisher_2 = node.create_publisher(Int32, 'micro_ros_arduino_subscriber_2', 10)
+
 
     rclpy.spin(node)
 
