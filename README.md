@@ -5,6 +5,10 @@ This GitHub repository presents all the codes used in the project.
 The project was carried out in cooperation with Aalto University.
 
 
+![Saab](gif.mp4)
+
+
+
 This repostory includes following folders:
 - DOC folder that contains instructions and project document files
 - SRC folder that contains ROS2 package with nodes in folder SRC/ROS2 packages/ and ESP32 codes in folder SRC/ESP32 codes/
