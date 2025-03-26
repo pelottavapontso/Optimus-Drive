@@ -58,7 +58,7 @@ More instructions in this GitHub repostory DOC/
 
 ## License
 
-Following GitHub repostorys used in this project:
+Following GitHub repostories used in this project:
 - https://github.com/ultralytics/yolov5
 - https://github.com/micro-ROS/micro_ros_arduino
 - https://github.com/micro-ROS/micro-ROS-Agent
