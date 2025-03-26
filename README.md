@@ -29,7 +29,7 @@ ROS2 package:
 3. Copy my_saab ROS2 package from this GitHub repositorys SRC/ROS2 packages/ to your workspaces src folder
 4. Build workspace
 
-All following steps are Ubuntu terminal commands:
+All following steps are Ubuntu terminal commands to install micro-ROS-agent:
 
 5. source /opt/ros/humble/setup.bash
 6. cd <to your workspace>
