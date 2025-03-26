@@ -24,6 +24,12 @@ Jetson Orion Nano was useb with Ubuntu and ROS2.
 
 To install and run this project locally, follow the steps below:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/repository-name.git
+ROS2 package:
+
+1. Download ROS2 to your Ubuntu computer
+2. Create workspace with src folder
+3. Copy my_saab ROS2 package from this GitHub repositorys SRC/ROS2 packages/ to your workspaces src folder
+4. Build workspace
+5. 
+
+
