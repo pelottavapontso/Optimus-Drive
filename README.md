@@ -5,7 +5,7 @@ This GitHub repository presents all the codes used in the project.
 The project was carried out in cooperation with Aalto University.
 
 
-![Saab](gif.mp4)
+![Saab](DOC/gif.mp4)
 
 
 
