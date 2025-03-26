@@ -15,7 +15,10 @@ The project was carried out in cooperation with Aalto University.
 
 ## Description
 
-This project is a simple tool to help with [describe the main goal of your project]. It is built using [mention any relevant technologies or frameworks].
+The project was done with old saab 900 automatic transmission car.
+Hardwares used in this project were Nvidia Jetson Orion Nano and ESP32.
+Jetson Orion Nano was useb with Ubuntu and ROS2.
+
 
 ## Installation
 
